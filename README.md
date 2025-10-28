@@ -34,3 +34,4 @@ export DEPLOY_ENV=production
 ./scripts/deploy.sh
 
 ## FAQ
+update
