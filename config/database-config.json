@@ -23,7 +23,8 @@
     },
     "backup": {
       "enabled": false,
-      "schedule": "manual"
+      "schedule": "manual",
+      "retention_days": 0
     },
     "features": {
       "seed_data": true,

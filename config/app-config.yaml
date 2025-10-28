@@ -19,3 +19,14 @@ development:
   hot_reload: false
   debug_mode: false
   mock_apis: false
+
+database:
+  host: localhost
+  port: 5432
+  username: devops_user
+  password: securepassword
+  name: devops_db
+
+features:
+  enable_metrics: true
+  enable_tracing: false

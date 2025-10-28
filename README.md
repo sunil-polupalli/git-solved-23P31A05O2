@@ -11,10 +11,7 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ## Features
 
 ### Core Features
-- Automated deployment scripts
-- Real-time monitoring
-- Configuration management
-- Backup and recovery system
+
 
 ### Production Features
 - SSL/TLS encryption
@@ -35,3 +32,4 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ```bash
 export DEPLOY_ENV=production
 ./scripts/deploy.sh
+
